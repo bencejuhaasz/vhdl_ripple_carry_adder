@@ -1,1 +1,2 @@
-# vhdl_ripple_carry_adder
+© Juhász Bence
+Minden jog fenntartva
